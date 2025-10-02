@@ -1,4 +1,124 @@
 body{
-    background: black;
-    color: white;
+  background-color: #F5FFFA;
+  margin: 0px;
 }
+ .navbar{
+      background: #222;
+      color: white;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 0px;
+ }      
+  
+ .navbar ul{
+  list-style: none;
+  gap: 20px;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+.navbar h2 {
+  font-size: 17px;
+  margin: 0px;
+}
+.navbar ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  margin: 0px;
+}
+.w1{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+}
+.w2{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+}
+.w3{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+}
+.w4{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+}
+  .w5{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+  }
+  .w6{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+  size:auto;
+  }
+  .w7{
+  width: 10rem;
+  height: auto;
+  border-radius: 20px;
+  }
+h1{
+  text-align: center;
+  color: black;
+}
+p{
+  text-align: center;
+  font-size: 1rem;
+  padding: 1rem;
+  color: black;
+}
+.w1,.w2,.w3,.w4,.w5,.w6,.w7{
+  align-items: center;
+  margin: 1.5rem;
+  width: 22rem;
+  height: auto;
+}
+.gallery{
+  padding-top:20px;
+  display: inline;
+      
+}
+h3{
+  text-transform: uppercase;
+  margin: 10px;
+}
+footer{
+  background-color: #222;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+.use,.exp{
+  color: white;
+  text-align: center;
+}
+.use{
+  display: flex;
+  font-weight: bold;
+  padding-left:160px;
+  padding-bottom: 10px;
+}
+.exp{
+  padding: 0px;
+  margin: 10pxpx;
+  display: inline;
+  font-size: 15px;
+}
+.copyright{
+  color: white;
+  padding: 0px;
+  margin-top: 1rem;
+  margin-bottom: 0px;
+}
+
+
